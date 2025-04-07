@@ -1,9 +1,36 @@
 # Applied-Cryptography
 
+
+Versions:
+- Ubuntu 18.04
+- .NET Core 8.0 SDK
+  
+
 <hr>
+
+Technologies:
+<ul>
+  <li>.NET</li>
+  <li>C#</li>
+</ul>
+
+
+<hr>
+
+Topics:
+<ol><li>Large Numbers, Random Numbers, Hash Functions and Number Theory</li>
+<li>Encryption Methods and Common Ciphers</li>
+<li>Password Storage and Password Cracking</li>
+<li>Authentication, Key Exchange and Man in the Middle (MITM) Attacks</li>
+<li>Secure messaging, Kerberos and Secure Sockets Layer (SSL) or Transport Level Security (TLS)</li>
+<li>RSA and why it works</li>
+<li>Advanced Cryptographic Protocols</li>
+<li>Anonymity, money and secure election algorithms</li></ol>
+<hr>
+
 <b>Steganography and Cryptanalysis:</b>
 <br>
-Experience steganography, cryptanalysis, and random number generator.
+Employ steganography, cryptanalysis, and random number generator.
 <br>
 <br>
 <b>Hash Project:</b>
